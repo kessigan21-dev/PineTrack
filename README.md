@@ -14,4 +14,9 @@ For more details, visit our [ePortfolio](https://sites.google.com/view/nanasxcha
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/PineTrack.git
+   git clone https://github.com/kessigan21-dev/PineTrack.git
+   
+## Download Full Source Code (ZIP)
+You can download the complete PineTrack project here:
+[Download from Google Drive](https://drive.google.com/file/d/1TeRPtq6bpSoyFZmtLi8rXNS73C6vaPNc/view?usp=drive_link)
+
