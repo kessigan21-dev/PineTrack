@@ -1,6 +1,6 @@
 # PineTrack
 
-**PineTrack** is an app developed by Kessigan Arasu, Jonathan Micheal Leong Eugene, Wong Choon Kiat, and Mohammad Rohaizad Bin Rosli for the **SULAM Nenas project (BITP3223 Software Project Management)**. The app helps entrepreneurs post announcements, manage products, track sales analytics, and enable customer purchases.
+**PineTrack** is an app developed by the project manager Kessigan Arasu, Jonathan Micheal Leong Eugene, Wong Choon Kiat, and Mohammad Rohaizad Bin Rosli for the **SULAM Nenas project (BITP3223 Software Project Management)**. The app helps entrepreneurs post announcements, manage products, track sales analytics, and enable customer purchases.
 
 ## Features
 - Post announcements for customers
@@ -19,4 +19,5 @@ For more details, visit our [ePortfolio](https://sites.google.com/view/nanasxcha
 ## Download Full Source Code (ZIP)
 You can download the complete PineTrack project here:
 [Download from Google Drive](https://drive.google.com/file/d/1TeRPtq6bpSoyFZmtLi8rXNS73C6vaPNc/view?usp=drive_link)
+
 
